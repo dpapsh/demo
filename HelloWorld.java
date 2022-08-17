@@ -5,5 +5,6 @@ public class HelloWorld {
     public void firstTest() {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
+        System.out.println("Hey how is it going?");
     }
 }
